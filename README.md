@@ -114,6 +114,7 @@ The [DHT Temperature / Humidity sensor program](https://github.com/raspberrypi/p
 - Hold down the BOOTSEL button to force it into USB Mass Storage Mode.
 - Drag or copy the `pico-examples/gpio/dht_sensor/dht.uf2` to the **RPI-RP2** mounted volume.
 - Wire a DHT sensor on a breadboard.
+  ![DHT Pico image](images/pico-dht22.jpg)
 - Open a serial terminal on `/dev/ttyACM0`
 
   ```
@@ -136,6 +137,8 @@ Every IoT hobbyist has a Neopixel and loves a fully addressable blinky light.  U
 - Hold down the BOOTSEL button to force it into USB Mass Storage Mode.
 - Drag or copy the `pico-examples/pio/ws2812/pio_ws2812.uf2` to the **RPI-RP2** mounted volume.
 - Wire a Neopixel to your Raspberry Pi Pico.
+
+  ![Neopixel Pico image](images/pico-neopixel.jpg)
 
 ### Board Specifications
 
