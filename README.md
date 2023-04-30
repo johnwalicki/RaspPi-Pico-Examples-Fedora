@@ -76,7 +76,7 @@ The compiler generates a **.uf2** binary for each sample program.
 
 The simplest method to load software onto a RP2040-based board is by mounting it as a USB Mass Storage Device. Connect your Fedora laptop to your Raspberry Pi Pico using a Micro-USB cable, making sure that you hold down the BOOTSEL button to force it into USB Mass Storage mode. You can drag the **.uf2** file onto the board to program the flash. The RP2040 will reboot, unmounting itself as a Mass Storage Device, and start to run the flashed code.
 
-![BOOTSEL button](https://images.ctfassets.net/tvfg2m04ppj4/4GsfnejdcV5cSUfIbVoWSU/f4276ebe786b4e5b917859c74bafb058/f0105_button_NEW.jpg?w=300)
+![BOOTSEL button](https://projects-static.raspberrypi.org/projects/getting-started-with-the-pico/725a421f3b51a5674c539d6953db5f1892509475/en/images/Pico-bootsel.png)
 
 There's a nice little [animated gif](https://www.raspberrypi.org/documentation/pico/getting-started/static/92dabbc476b6b5ac7600c85a2df88200/Blink-an-LED-FINAL.gif).
 
