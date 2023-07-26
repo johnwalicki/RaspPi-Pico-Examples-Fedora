@@ -152,7 +152,7 @@ If you want to use the picotool to inspect / load programs onto the RP2040,
 Appendix B of the [SDK guide](https://datasheets.raspberrypi.org/pico/getting-started-with-pico.pdf)
 details the installation instructions.  You will need to install these Fedora packages:
 
-```sudo dnf install libusb-devel libusb```
+```sudo dnf install libusb1-devel libusb1```
 
 ### Board Specifications
 
