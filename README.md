@@ -119,7 +119,7 @@ The [DHT Temperature / Humidity sensor program](https://github.com/raspberrypi/p
 
 - Hold down the BOOTSEL button to force it into USB Mass Storage mode.
 - Drag or copy the `pico-examples/gpio/dht_sensor/dht.uf2` to the **RPI-RP2** mounted volume.
-- Wire a DHT sensor on a breadboard.  (The [Raspberry Pi Pico C SDK Guide](https://datasheets.raspberrypi.org/pico/raspberry-pi-pico-c-sdk.pdf) pg238 has a nice wiring diagram.)
+- Wire a DHT sensor on a breadboard.  (The [Raspberry Pi Pico C SDK Guide](https://datasheets.raspberrypi.org/pico/raspberry-pi-pico-c-sdk.pdf) pg73 has a nice wiring diagram.)
   ![DHT Pico image](images/pico-dht22.jpg)
 - Open a serial terminal on `dev/ttyACM0`
 
